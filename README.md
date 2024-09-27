@@ -1,1 +1,23 @@
-# qa_python
+**Список реализованных тестов:**
+
+test_add_new_book_name_in_range_from_0_to_41
+
+test_add_new_book_add_two_books
+
+test_set_book_genre
+
+test_get_book_genre
+
+test_get_books_with_specific_genre_horror
+
+test_get_books_genre_initial_state
+
+test_get_books_for_children_append_book
+
+test_add_book_in_favorites_one_book
+
+test_delete_book_from_favorites
+
+test_get_list_of_favorites_books_initial_state
+
+test_get_list_of_favorites_books
