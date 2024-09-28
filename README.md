@@ -10,14 +10,14 @@ test_get_book_genre
 
 test_get_books_with_specific_genre_horror
 
-test_get_books_genre_initial_state
+test_get_books_genre_one_book
 
-test_get_books_for_children_append_book
+test_get_books_for_children_appropriate_genres_in_the_list
+
+test_get_books_for_children_inappropriate_genres_not_in_the_list
 
 test_add_book_in_favorites_one_book
 
 test_delete_book_from_favorites
-
-test_get_list_of_favorites_books_initial_state
 
 test_get_list_of_favorites_books
